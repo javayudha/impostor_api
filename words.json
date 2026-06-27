@@ -1,1 +1,47 @@
-
+{
+  "hewan": [
+    "Kucing",
+    "Singa",
+    "Gajah",
+    "Harimau",
+    "Jerapah",
+    "Kelinci",
+    "Kuda"
+  ],
+  "makanan": [
+    "Bakso",
+    "Sate",
+    "Nasi Goreng",
+    "Mie Ayam",
+    "Rendang",
+    "Soto",
+    "Rawon"
+  ],
+  "benda": [
+    "Laptop",
+    "Kipas",
+    "Pensil",
+    "Meja",
+    "Kursi",
+    "Buku",
+    "Lampu"
+  ],
+  "profesi": [
+    "Dokter",
+    "Guru",
+    "Polisi",
+    "Pilot",
+    "Programmer",
+    "Petani",
+    "Chef"
+  ],
+  "tempat": [
+    "Pantai",
+    "Sekolah",
+    "Bandara",
+    "Rumah Sakit",
+    "Pasar",
+    "Perpustakaan",
+    "Stasiun"
+  ]
+}
